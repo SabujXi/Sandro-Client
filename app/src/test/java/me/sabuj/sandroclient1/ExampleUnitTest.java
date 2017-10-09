@@ -1,4 +1,4 @@
-package me.sabuj.contentprovider1;
+package me.sabuj.sandroclient1;
 
 import org.junit.Test;
 
